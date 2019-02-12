@@ -1,6 +1,6 @@
 <#
 .SYNOPSIS
-    Used for  firmware and drivers for RightSight connected to a MettUp.
+    Used for  firmware and drivers for RightSight connected to a MeetUp.
     Requires a file share that contains the Install-RightSight.ps1 and firmware file
     The account used in the Scheduled Task must have read access to the share file.
     
