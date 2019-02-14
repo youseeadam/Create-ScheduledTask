@@ -13,7 +13,7 @@
     File Name           : CreateScheduledTask.ps1
     Author              : Adam Berns (aberns@logitech.com)
     Prerequisite        : PowerShell V2 or later
-    Script posted over  : Google Files (check with author for access)
+    Script posted over  : https://github.com/youseeadam/Create-ScheduledTask
 
 .PARAMETER RightSight
     RightSight      : How Right Sight will be used, one of the following options
